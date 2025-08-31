@@ -9,6 +9,7 @@ The aim is to evaluate how calibration with synthetic null data improves differe
 ---
 
 ##  Repository Structure
+```
 ├── ClusterDE_Application.R        # Main analysis script (all steps integrated)
 ├── data/                          # Input data (not included in repo for size reasons)
 │   └── filtered_feature_bc_matrix_Bsub_minimal_media.h5
@@ -34,3 +35,4 @@ The aim is to evaluate how calibration with synthetic null data improves differe
 │   └── marker_viz/
 │       └── marker_expression_comparison.png
 └── README.md
+```
